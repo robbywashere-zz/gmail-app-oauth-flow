@@ -1,8 +1,8 @@
 
-# GMail OAuth App Flow
+# Gmail OAuth App Flow
 
 
-## Motiviation:
+## Motiviation
 
 An example app to get you started on a google api cli app.
 
