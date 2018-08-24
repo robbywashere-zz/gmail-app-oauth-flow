@@ -1,4 +1,7 @@
 {
+  "engine": {
+    "node": ">=9.0"
+  },
   "name": "gmail-app-oauth-flow",
   "version": "1.0.0",
   "main": "index.js",
