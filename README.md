@@ -6,6 +6,8 @@
 
 An example app to get you started on a google api cli app.
 
+You could very well run this once in order to get your access and refresh token, or you could modify the could a bit and integrate it into your own app.
+
 This example follows the recommendations of **'Option 2: Loopback IP address (macOS, Linux, Windows desktop)'** listed on [OAuth 2.0 for Mobile & Desktop Apps](https://developers.google.com/identity/protocols/OAuth2InstalledApp)
 
 `[OAuth Flow] ---> [Loopback Redirect URI] ---> [Fetch Credentials] ---> [Output to Stdout]`
