@@ -18,7 +18,9 @@ This example follows the recommendations of **'Option 2: Loopback IP address (ma
 
 - Follow the [Prerequisites](https://developers.google.com/identity/protocols/OAuth2InstalledApp#prerequisites) on googles developer portal.
 
-- Download the credentials from 'Prerequisites' instructions into `gmail-app-oauth-flow` root directory as `.config.json`
+- **Download the credentials from 'Prerequisites' instructions into `gmail-app-oauth-flow` root directory as `.config.json`**
+
+## Run
 
 - Run `node main.js > .tokens.json` 
 
