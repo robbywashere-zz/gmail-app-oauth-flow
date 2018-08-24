@@ -30,7 +30,7 @@ const { clientId, clientSecret } = require('./.config.json');
 
   server.listen(0);
   await util.promisify(server.on.bind(server, 'listening'));
-  const port = server.address().port;
+  const { port } = server.address();
   const client = oacClient(port);
   const url = client.generateAuthUrl({
     access_type: 'offline',
