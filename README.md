@@ -1,5 +1,5 @@
 
-# Gmail OAuth App Flow ✉️🔓👍
+# Gmail OAuth App Flow 🔓➡️✉️➡️👍
 
 
 ## Motiviation
