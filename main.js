@@ -5,7 +5,7 @@ const util = require('util');
 const urlLib = require('url');
 const querystring = require('querystring');
 const { EventEmitter } = require('events');
-const { clientId, clientSecret } = require('./config.json');
+const { clientId, clientSecret } = require('./.config.json');
 
 (async function main() {
   const oacClient = port =>
